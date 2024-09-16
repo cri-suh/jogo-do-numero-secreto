@@ -1,3 +1,3 @@
-Sobre o Projeto
+# Sobre o Projeto
 
 Este projeto é uma aplicação web interativa desenvolvida em HTML, CSS e JavaScript, projetada para oferecer uma experiência de jogo simples e envolvente. A aplicação utiliza a biblioteca ResponsiveVoice para integração com funcionalidades de voz, e faz uso de fontes modernas do Google Fonts para um design mais atraente. O jogo permite que o usuário insira um número e clique em "Chutar" para verificar o resultado, enquanto o botão "Novo jogo" permite reiniciar a aplicação para uma nova rodada. A estrutura do projeto visa proporcionar uma interface clara e funcional, destacando o uso de boas práticas em desenvolvimento front-end.
